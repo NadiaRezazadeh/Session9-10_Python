@@ -61,8 +61,3 @@ date2 = Date(1400,4,21)
 date2.show()
 date2.get_mounth_name()
 date2.is_valid_date()
-
-
-
-
-
